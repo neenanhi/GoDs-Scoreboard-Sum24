@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/GoDs_Logo.png</file>
+    <file>icon/user-48.ico</file>
+    <file>icon/search-13-48.ico</file>
+    <file>icon/calendar-5-32.ico</file>
+    <file>icon/calendar-5-48.ico</file>
+    <file>icon/time-7-48.ico</file>
+    <file>icon/time-7-32.ico</file>
+    <file>icon/nreip_circle_125px.png</file>
+    <file>icon/close-window-64.ico</file>
+    <file>icon/dashboard-5-32.ico</file>
+    <file>icon/dashboard-5-48.ico</file>
+    <file>icon/dashboard-32.ico</file>
+    <file>icon/dashboard-48.ico</file>
+    <file>icon/joystick-32 (1).ico</file>
+    <file>icon/joystick-32.ico</file>
+    <file>icon/joystick-48 (1).ico</file>
+    <file>icon/joystick-48.ico</file>
+    <file>icon/menu-4-32.ico</file>
+  </qresource>
+</RCC>
